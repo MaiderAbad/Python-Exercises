@@ -1,11 +1,11 @@
-# This is a large heading
+# Maider Abad
 
-## This is a smaller heading
+## A little about me
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I am Biomedical Engineer and I am currently doing my PhD in Barcelona. This file is used to practice **Markdown**.
+
+### Purpose
+I am trying to work with lists:
 
 - This is
 - an unordered
@@ -15,6 +15,8 @@ A local *habitation* and a **name**.
 2. an ordered
 3. list
 
+### Coding
+
 Here is `some code` in the middle of a sentence.
 
 ```
@@ -23,7 +25,4 @@ a block
 of code
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
